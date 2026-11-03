@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Niraj%20Aurangabad&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
+<div align="center">
+  <!-- Yahan tumhari photo lag gayi hai -->
+  <img src="https://github.com/nirajaurangabad/nirajaurangabad/blob/main/photo_2026-11-03_20-37-07.jpg?raw=true" alt="Niraj Aurangabad" width="180" style="border-radius: 50%;" />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Niraj+Aurangabad;Multi-Disciplinary+Developer+💻;&center=true&size=30">
@@ -100,7 +105,7 @@
   <h3>🌟 My Best Works</h3>
 </div>
 
-### 📱 [Tumhare Project Ka Naam - e.g., Terabox Downloader]
+### 📱 Terabox Downloader
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/nirajaurangabad/terabox-downloader)
@@ -121,7 +126,7 @@
 
 ---
 
-### 🌐 [Tumhara Dusra Project - e.g., My API]
+### 🌐 My API
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/nirajaurangabad/my-api)
@@ -129,15 +134,27 @@
 
 </div>
 
-**🎯 The Challenge:** [Yahan likho ki kya problem thi]
+**🎯 The Challenge:** Testing APIs and managing data.
 
-**💡 The Solution:** [Yahan likho ki tumne kya banaya]
+**💡 The Solution:** A custom API built for learning and testing purposes.
 
 **✨ Key Features:**
-- 🔥 **Feature 1**
-- 🔥 **Feature 2**
+- 🔥 **Fast Response**
+- 🔥 **Easy Integration**
 
 **🛠️ Tech Stack:** Python
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirajaurangabad/nirajaurangabad/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirajaurangabad/nirajaurangabad/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nirajaurangabad/nirajaurangabad/output/github-snake.svg">
+</picture>
+</div>
 
 ---
 
