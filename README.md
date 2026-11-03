@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <!-- Yahan tumhari photo lag gayi hai -->
-  <img src="https://github.com/nirajaurangabad/nirajaurangabad/blob/main/photo_2026-11-03_20-37-07.jpg?raw=true" alt="Niraj Aurangabad" width="180" style="border-radius: 50%;" />
+  <img src="https://github.com/nirajaurangabad/nirajaurangabad/blob/main/photo_2026-11-03_20-37-07.jpg?raw=true" alt="Niraj Aurangabad" width="180" height="180" style="border-radius: 50%; object-fit: cover; border: 4px solid #0077B5;" />
 </div>
 
 <h1 align="center">
